@@ -5,7 +5,7 @@
     "PrivateSubnet1": "subnet-0aa355942d75ae5ff",
     "PrivateSubnet2": "subnet-0f8c0d5c4e6f2388f",
     "PublicSubnet1": "subnet-00fe18ac18e67220a",
-    "PublicSubnet2": "subnet-9069abcd",
+    "PublicSubnet2": "subnet-0f8c0d5c4e6f2388f",
     "S3BucketName": "nestedcfn-basestack-s3bucket-1v9maem9i5xir",
     "KeyPair": "Maarthen's Key",
     "AMIId": "ami-e5083683",
